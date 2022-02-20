@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedtarib
-- 👀 I’m interested in learning programming and new technologies like blockchaine and AI.
+- 👀 I’m interested in learning programming and new technologies like blockchain and AI.
 - 🌱 I’m currently learning JavaScript Frameworks
 - 💞️ I’m looking forward to collaborate with new tech startups
 - 📫 I will be happy to hear from you at: mohamedtarib9@gmail.com
